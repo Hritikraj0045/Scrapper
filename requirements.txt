@@ -1,0 +1,14 @@
+selenium
+tkinter
+csv
+os
+threading
+datetime
+scraper
+utils
+scheduler
+config
+time
+ui
+pyinstaller
+pandas
